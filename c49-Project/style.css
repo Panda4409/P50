@@ -1,0 +1,19 @@
+h1 {
+    color: blueviolet ;
+}
+
+* {
+    border: solid;
+    border-color: darkcyan;
+}
+
+.header{
+    background-color: cyan;
+    display: flex;
+    justify-content: space-between;
+}
+
+p{
+    text-align: center;
+    border-color: mediumvioletred;
+}
